@@ -1,0 +1,186 @@
+[
+    {
+        "Time left": 20,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 0,
+=======
+        "Dendrites summary": 0,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 19,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 20,
+=======
+        "Dendrites summary": 20,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 18,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 82,
+=======
+        "Dendrites summary": 82,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 17,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 89,
+=======
+        "Dendrites summary": 89,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 16,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 100,
+=======
+        "Dendrites summary": 100,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": true
+    },
+    {
+        "Time left": 15,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 0,
+=======
+        "Dendrites summary": 0,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 14,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 0,
+=======
+        "Dendrites summary": 0,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 13,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 0,
+=======
+        "Dendrites summary": 0,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 12,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 0,
+=======
+        "Dendrites summary": 0,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 11,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 20,
+=======
+        "Dendrites summary": 20,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 10,
+        "Capacity": 100,
+<<<<<<< HEAD
+        "Dendrites Summary": 69,
+=======
+        "Dendrites summary": 69,
+>>>>>>> b53f6b2e8883a355b150dda1e8e22e95aa4481a5
+        "Leaked": 30,
+        "Spike occurrence": false
+    },
+    {
+        "Time left": 9,
+        "Capacity": 100,
+        "Dendrites Summary": 100,
+        "Leaked": 30,
+        "Spike Cccurrence": true
+    },
+    {
+        "Time left": 8,
+        "Capacity": 100,
+        "Dendrites Summary": 0,
+        "Leaked": 30,
+        "Spike Cccurrence": false
+    },
+    {
+        "Time left": 7,
+        "Capacity": 100,
+        "Dendrites Summary": 0,
+        "Leaked": 30,
+        "Spike Cccurrence": false
+    },
+    {
+        "Time left": 6,
+        "Capacity": 100,
+        "Dendrites Summary": 0,
+        "Leaked": 30,
+        "Spike Cccurrence": false
+    },
+    {
+        "Time left": 5,
+        "Capacity": 100,
+        "Dendrites Summary": 12,
+        "Leaked": 30,
+        "Spike Cccurrence": false
+    },
+    {
+        "Time left": 4,
+        "Capacity": 100,
+        "Dendrites Summary": 24,
+        "Leaked": 30,
+        "Spike Cccurrence": false
+    },
+    {
+        "Time left": 3,
+        "Capacity": 100,
+        "Dendrites Summary": 36,
+        "Leaked": 30,
+        "Spike Cccurrence": false
+    },
+    {
+        "Time left": 2,
+        "Capacity": 100,
+        "Dendrites Summary": 85,
+        "Leaked": 30,
+        "Spike Cccurrence": false
+    },
+    {
+        "Time left": 1,
+        "Capacity": 100,
+        "Dendrites Summary": 100,
+        "Leaked": 30,
+        "Spike Cccurrence": true
+    }
+]
